@@ -1,0 +1,9 @@
+li{
+    list-style: none;
+}
+li>a{
+    margin-right:20px ;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}
